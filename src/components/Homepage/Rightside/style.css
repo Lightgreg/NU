@@ -1,0 +1,30 @@
+.right {
+  margin-top: 40px;
+  width: 500px;
+}
+
+.right-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px;
+  height: 35px;
+}
+
+.btn-sec {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'nunito';
+}
+
+p {
+  font-size: 16px;
+  font-weight: 700;
+  font-family: 'nunito';
+}

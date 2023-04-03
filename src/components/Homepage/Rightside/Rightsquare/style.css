@@ -1,0 +1,26 @@
+.first-square {
+  height: 70px;
+  max-width: 430px;
+  min-width: 430px;
+  background-color: #F8F9FA;
+  margin: 10px auto;
+  border-left: 4px solid #E9ECEF;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 6px 0 0 6px;
+}
+
+.big-square {
+  width: 330px;
+  height: 13px;
+  background-color: #E9ECEF;
+  margin-left: 10px;
+}
+
+.small-square {
+  width: 76px;
+  height: 13px;
+  background-color: #E9ECEF;
+  margin-left: 10px;
+}

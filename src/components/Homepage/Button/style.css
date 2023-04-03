@@ -1,0 +1,23 @@
+.btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 7px 10px;
+  gap: 10px;
+
+  background: #E9ECEF;
+  color: #343A40;
+
+
+  border: 1.4px solid #E9ECEF;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: 'Nunito';
+  font-weight: 700;
+}
+
+.btn:hover {
+  background: #FD377E;
+  color: #ffffff;
+}
